@@ -1,32 +1,46 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Passionate Python programmer with a knack for solving complex problems and developing efficient solutions. 
+        I thrive in collaborative environments and enjoy learning and staying up-to-date with the latest 
+        advancements in the Python ecosystem. I'm dedicated to creating clean, maintainable, and well-documented code.
+
+		Skills:
+
+		- Python Programming
+        - Web Development (Django, Flask)
+        - Data Analysis and Visualization (NumPy, Pandas, Matplotlib)
+        - Machine Learning (Scikit-Learn, TensorFlow)
+        - Database Management (SQL, SQLite, PostgreSQL)
+        - Version Control (Git, GitHub)
+        - Agile and Scrum methodologies
+        - Problem-solving and algorithm design
+
+		projects :
+
+	1. E-commerce Website (Django):
+           Developed a feature-rich e-commerce platform with user authentication, product catalog, shopping cart, 
+           and payment integration using Django and Django Rest Framework.
+
+        2. Data Analysis Dashboard (Python, Pandas, Matplotlib):
+           Created an interactive data analysis dashboard that visualizes COVID-19 data using Python, Pandas, 
+           and Matplotlib, providing insights into the pandemic's impact.
+
+        3. Sentiment Analysis App (Natural Language Processing):
+           Built a sentiment analysis web application using NLP techniques, allowing users to analyze and 
+           visualize sentiments from user-generated text data.
+
+        4. Machine Learning Models (Scikit-Learn):
+           Implemented various machine learning models for tasks such as image classification, text classification, 
+           and regression using Scikit-Learn and TensorFlow.
+
+        5. Personal Portfolio Website:
+           Designed and developed a personal website to showcase my projects, skills, and experience using 
+           HTML, CSS, and JavaScript.
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+		   certifications:
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		- Certified Python Developer (Python Institute)
+        - Machine Learning Specialization (Coursera)
+        - Agile Certified Practitioner (PMI-ACP)
+        - Django for Beginners (Udemy)
+        - SQL Fundamentals (Coursera)
